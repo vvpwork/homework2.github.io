@@ -2,8 +2,7 @@ body {
     font: normal 14px 'Playfair Display', serif;
     color: rgb(102, 102, 102);
     line-height: 24px;
-    max-width: 100vp;
-   
+    max-width: 100vw; 
 }
  /*header*/
  .main-menu-items {
@@ -45,8 +44,7 @@ body {
  }
 
  .last-article-preview-list{
-     display: block;
-     
+     display: block;  
     
  }
  .last-article-preview-list-items{
@@ -74,8 +72,7 @@ body {
     text-transform: uppercase;
     color: rgb(180, 173, 158)
 }
-h2 {
-    
+h2 {  
     font-size: 30px;
     font-weight: 400;
 }
